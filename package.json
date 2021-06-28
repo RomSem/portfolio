@@ -21,7 +21,7 @@
     "prismic-dom": "^2.2.3",
     "prismic-javascript": "^3.0.2",
     "prismic-vue": "^2.0.1",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.24.0",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.12",
     "vue-analytics": "^5.22.1",
